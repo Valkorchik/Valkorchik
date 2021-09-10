@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Valkorchik/Valkorchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+![My stats](https://github-readme-stats.vercel.app/api?username=Valkorchik&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VALKORCHIK&show_icons=true&theme=radical)
+![111](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)

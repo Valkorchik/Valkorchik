@@ -11,7 +11,7 @@
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+# Activity
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Valkor&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 

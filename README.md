@@ -9,7 +9,7 @@
 
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&theme=tokyonight)
 
 # Activity
 [![Valkorchik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Valkorchik&theme=tokyonight)](https://wakatime.com/dashboard)

@@ -12,7 +12,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&theme=tokyonight)
 
 # Activity
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Valkorchik&theme=tokyonight)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://wakatime.com/dashboard)
+
 
 
 

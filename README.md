@@ -9,10 +9,10 @@
 
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?uername=Valkorchik&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&theme=tokyonight)
 
 # Activity
-![willianrod's wakatime stats](https://github-readme-stats.vercel.pp/api/wakatime?username=Valkorchik&theme=tokyonight)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Valkorchik&theme=tokyonight)
 
 
 

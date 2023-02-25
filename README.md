@@ -9,12 +9,12 @@
 
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&theme=tokyonight)
+
+<div align="center">
+<img height="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
 
 # Activity
 [![Valkorchik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Valkorchik&theme=tokyonight)](https://wakatime.com/dashboard)
-
-
 
 
 

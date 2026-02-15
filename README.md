@@ -14,11 +14,11 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valkorchik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B3A62&icon_color=8B3A62&text_color=C9D1D9&ring_color=8B3A62&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Valkorchik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B3A62&icon_color=8B3A62&text_color=C9D1D9&ring_color=8B3A62&include_all_commits=true&count_private=true" />
 
 <br><br>
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&hide=css,html,mustache&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B3A62&text_color=C9D1D9" />
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&hide=css,html,mustache&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B3A62&text_color=C9D1D9" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Valkorchik&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Valkorchik&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

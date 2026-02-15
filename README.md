@@ -1,22 +1,53 @@
-<!---
-![tenor (4)](https://user-images.githubusercontent.com/56596530/132895428-da4d99b9-0907-427b-a534-a3a49ce2852c.gif)
--->
-### Hello there <img src="https://user-images.githubusercontent.com/24693702/115998618-4dcf8580-a612-11eb-8c42-78079c0809f1.gif" width="25" height="25">
-* [Telegram](https://t.me/Valkorc)
+<div align="center">
 
+<!-- HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=8B3A62&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Creator.;Visionary.;AI+Godspeed.)](https://git.io/typing-svg)
 
+<br>
 
+*Moscow / Universe*
+<br>
+*Building things that matter. Turning ideas into reality.*
 
+<br>
 
-# Top Languages
+</div>
+
+---
 
 <div align="center">
-<img height="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&hide=css,html,mustache&langs_count=9&bg_color=30,e96443,904e95,481677&title_color=ffcdf0&text_color=ffcdf0&hide_border=true"/>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valkorchik&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B3A62&icon_color=8B3A62&text_color=C9D1D9&ring_color=8B3A62&include_all_commits=true&count_private=true" />
 
+<br><br>
 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorchik&layout=compact&hide=css,html,mustache&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B3A62&text_color=C9D1D9" />
 
+</div>
 
+---
 
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Valkorchik&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valkorchik/Valkorchik/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valkorchik/Valkorchik/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Valkorchik/Valkorchik/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Valkorc-5E1F3C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Valkorc)
+[![Email](https://img.shields.io/badge/Email-nikitasmirnov.nss@gmail.com-5E1F3C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitasmirnov.nss@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Valkorchik&style=flat-square&color=5E1F3C" alt="" />
+
+</div>

@@ -4,9 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=8B3A62&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Creator.;Visionary.;AI+Godspeed.)](https://git.io/typing-svg)
 
 <br>
-
-*Moscow / Universe*
-<br>
 *Building things that matter. Turning ideas into reality.*
 
 <br>
